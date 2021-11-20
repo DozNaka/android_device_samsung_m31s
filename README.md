@@ -5,7 +5,7 @@
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_m31s-eng
+lunch twrp_m31s-eng
 make recoveryimage
 ```
 
